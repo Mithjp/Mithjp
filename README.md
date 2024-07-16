@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mithun
 - 👀 I’m interested in DIY Multirotors
 - 🌱 Engineering Student at RIT Kottayam
-- 📫 How to reach me at mithunloor@gmail.com
+- 📫 Reach me at mithunloor@gmail.com
 
 
 <!---
